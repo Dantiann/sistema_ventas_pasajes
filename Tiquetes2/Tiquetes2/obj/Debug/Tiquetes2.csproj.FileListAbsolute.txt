@@ -1,0 +1,15 @@
+C:\Users\ALEXANDER\source\repos\Tiquetes2\Tiquetes2\bin\Debug\Tiquetes2.exe.config
+C:\Users\ALEXANDER\source\repos\Tiquetes2\Tiquetes2\bin\Debug\Tiquetes2.exe
+C:\Users\ALEXANDER\source\repos\Tiquetes2\Tiquetes2\bin\Debug\Tiquetes2.pdb
+C:\Users\ALEXANDER\source\repos\Tiquetes2\Tiquetes2\obj\Debug\Tiquetes2.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\source\repos\Tiquetes2\Tiquetes2\obj\Debug\Tiquetes2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXANDER\source\repos\Tiquetes2\Tiquetes2\obj\Debug\Tiquetes2.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\source\repos\Tiquetes2\Tiquetes2\obj\Debug\Tiquetes2.exe
+C:\Users\ALEXANDER\source\repos\Tiquetes2\Tiquetes2\obj\Debug\Tiquetes2.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Tiquetes2\Tiquetes2\bin\Debug\Tiquetes2.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Tiquetes2\Tiquetes2\bin\Debug\Tiquetes2.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Tiquetes2\Tiquetes2\bin\Debug\Tiquetes2.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Tiquetes2\Tiquetes2\obj\Debug\Tiquetes2.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Tiquetes2\Tiquetes2\obj\Debug\Tiquetes2.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Tiquetes2\Tiquetes2\obj\Debug\Tiquetes2.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Tiquetes2\Tiquetes2\obj\Debug\Tiquetes2.pdb
